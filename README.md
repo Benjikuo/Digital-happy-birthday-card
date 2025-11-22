@@ -19,7 +19,7 @@ A p5.js animated birthday card featuring balloons, confetti, fireworks, and visu
 - 🎉 Falling Confetti – A lively particle system that scatters colorful confetti across the screen.
 - 🚩 Dynamic Bunting Flags – Color-changing flags with a wavy rope animation at the top.
 - 🎁 Dropping Gift Boxes – Randomly falling gifts with bouncing animation and rare golden gift variations.
-- 🌏 Bilingual Message Switching – Switches world between “Happy Birthday” and 「生日快樂」with scrambling transition effects.
+- 🌏 Bilingual Message Switching – Switches title language with scrambling transition effect.
 - 💥 Fireworks – Burst-style particle explosions with randomized colors and fading trails.
 
 <br>
