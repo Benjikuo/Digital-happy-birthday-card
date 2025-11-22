@@ -45,4 +45,4 @@ Happy birthday/
 This project is released under the **MIT License**.  
 You are free to use, modify, and share it for learning, personal projects or someone's birthday.  
   
-**Now you can celebrate someone’s birthday by simply sending them this digital card as a web link. 🎉**
+**Now you can celebrate birthday by a link. 🎉**
