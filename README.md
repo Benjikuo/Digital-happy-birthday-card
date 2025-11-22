@@ -36,12 +36,8 @@ Happy birthday/
 <br>
 
 ## ▶️ How to Run
-
-Download or clone the repository.
-
-Open index.html in any browser.
-
-That's it — the animation runs instantly with no setup required.
+1. Download or clone the repository.
+2. Doubble click to open index.html in any browser.
 
 <br>
 
