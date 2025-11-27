@@ -1,27 +1,23 @@
 <!DOCTYPE html>
 <html lang="en" translate="no">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Happy Birthday</title>
-    <style>
-      body {
-        margin: 0;
-        background: black;
-        display: flex;
-        justify-content: center;
-        align-items: flex-start;
-        height: 100vh;
-        padding-top: 30px;
-      }    
-    
-      canvas {
-        transform: scale(1.2);
-        transform-origin: top center;
-      }
-    </style>
-  </head>
-  <body>
-    <script src="p5.min.js"></script>
-    <script src="sketch.js"></script>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <title>Happy Birthday</title>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  
+  <style>
+    body {
+      margin: 0;           /* 移除預設邊距 */
+      overflow: hidden;    /* 防止滾動條出現 */
+      /* 額外確保文字大小不會被移動裝置自動調整 */
+      -webkit-text-size-adjust: 100%; 
+      text-size-adjust: 100%;
+    }
+  </style>
+</head>
+<body>
+  <script src="p5.min.js"></script>
+  <script src="sketch.js"></script>
+</body>
 </html>
