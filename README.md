@@ -1,4 +1,8 @@
 # Digital-happy-birthday-card
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Language](https://img.shields.io/badge/Language-HTML%20%7C%20CSS%20%7C%20JS-blue)
+
 A digital birthday card created with p5.js that can be viewed through a web link.
 
 <p>
